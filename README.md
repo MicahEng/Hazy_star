@@ -10,7 +10,8 @@
 
 ### 技术栈
 
-1.Python
-2.算法设计技术
+1. Python
+2. 算法设计技术
+3. 设计模式
 
 ## 和我交流：mofengshengxiao@gmail.com
